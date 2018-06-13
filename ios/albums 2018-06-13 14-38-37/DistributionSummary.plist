@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>albums.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CA535361620A8DE136D48C2E75D82A36B2A5E4CA</string>
+				<key>dateExpires</key>
+				<string>13/6/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>F372D7J7R2.bd.com.tong.albums</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>F372D7J7R2</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>F372D7J7R2.bd.com.tong.albums</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>albums.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d6057632-3dab-4e97-927c-dff6cc9881db</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: bd.com.tong.albums</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>F372D7J7R2</string>
+				<key>name</key>
+				<string>Sk Rubaiyat Zaman</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
